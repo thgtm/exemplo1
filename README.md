@@ -1,2 +1,2 @@
-# exemplo1 modificado
-exemplo da primeira criação de um repositório
+# Minha bio
+Meu nome é Thiago Takeshi Miyabe, tenho 19 anos e estou cursando Engenharia de Software
